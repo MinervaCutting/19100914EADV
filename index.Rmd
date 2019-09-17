@@ -29,213 +29,320 @@ library(knitr)
 
 
 
-## **RESTAURANT OPTIONS**  {.tabset .tabset-fade}
 
-We are suggesting a selection of restaurants, all of them walking distance from the hotel. We are suggesting different restaurants some modern, some very traditional, some more elegant and some more casual.
+# October 9th - CASA ALBERTO
 
-You can see on the map below the location of the restaurants and the hotel:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1DClh3UJigeo64k0HmapspmqIrIVQA0jw&hl=es" width="100%" height="480"></iframe>
+<iframe src="CasaAlberto/CasaAlberto.html" frameborder="0" width="100%" height="1500" scrolling="no"></iframe>
 
-### CASA GALLEGA
+## Menu options {.tabset .tabset-fade}
+
+* They can choose the main course in the restaurant
+
+### Menu 1
+
+        Homemade Iberian Ham Croquettes (2 Units)
+  
+        To Share: (4 People)
+        Goat Cheese Salad with Berries and Honey Vinaigrette
+        Scrambled Blood Sausage and Peppers
+        
+        Main Course to Choose:
+        Grilled Baby Squids with Black Onion and Tomato Jam
+        O
+        Iberian Sirloin with Pamentier and Glassed Arendanes
+        
+        Dessert
+        Homemade Cake
+
+        Drinks to Choose:
+        Red o White Wine Martínez Lacuesta (a bottle per 2 people)
+        or
+        2 Beers or 2 Soft Drinks or 2 Bottle of 
+        Water per person
+        
+        Rates per person: 48€ VAT inc
+
+### Menu 2
+
+        Homemade Iberian Ham Croquettes (2 Units)
+  
+        To Share: (4 People)
+        Goat Cheese Salad with Berries and Honey Vinaigrette
+        Scrambled Blood Sausage and Peppers
+        
+        Main Course to Choose:
+        Grilled Baby Squids with Black Onion and Tomato Jam
+        O
+        Iberian Sirloin with Pamentier and Glassed Arendanes
+        
+        Dessert
+        Homemade Cake
+
+        Drinks to Choose:
+        Red o White Wine Martínez Lacuesta (a bottle per 2 people)
+        or
+        2 Beers or 2 Soft Drinks or 2 Bottle of 
+        Water per person
+        
+        Rates per person: 60€ VAT inc
+
+
+*****
+
+# October 10th - O'PULPO
+
+<iframe src="Opulpo/opulpo.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## Menu options {.tabset .tabset-fade}
+
+* They can choose the main course in the restaurant
+
+### Menu Orense 
+
+
+        Startes to share
+        • Octopus croquettes
+        • Grilled wild greens
+        • Clams a la marinera
+        • Padrón peppers
+
+        Seconds to choose
+        • Beef steak
+        • Milanese escalope
+        • Sea bass on the back
+        • Hake to the Basque
+
+        Dessert to choose
+        • Authentic ice cream
+        • Filloas with chocolate
+        
+        Tinto, a young man from toro bodegas (Fariña)
+        White, a homemade albariño
+        Tasting of shots and coffee
+        
+        Rates per person: 46€ VAT inc
+
+### Menu Pontevedra 
+
+        Startes to share
+        • Octopus with cachelos
+        • Clams a la marinera
+        • Grilled penknives
+        • Caramelized foie gras
+        • Mushrooms iron
+
+        Seconds to choose
+        • Beef steak
+        • Suckling lamb chops
+        • Sea bass on the back
+        • Hake to the Basque
+
+        Dessert to choose
+        • Authentic ice cream
+        • Brownie de chocotale
+        
+        Tinto, a Rioja aging from the Lan wineries
+        White, a homemade albariño
+        Tasting of liquors and coffee
+        
+        Rates per person: 50€ VAT inc
+
+*****
+
+
+# October 11th - LA MUCCA DE PRADO
+
+<iframe src="LaMuccadePrado/LaMuccadePrado.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+## Menu options {.tabset .tabset-fade}
+
+### Menu 1
+
+    To Share
+
+    Ham Croquettes
+    Chicken Wings
+    Tuna Mille-Feuille
+    Nachos de la Teki
+
+    Sauteed Prawns
+    Boletus Pizza
+    Thai Curry Chicken
+    
+    Dessert
+    Dessert Tasting
+    
+
+    Wines
+    Bodeguero (Tempranillo ) y Bodeguero (Verdejo)
+    Coffee or tea
+
+    *1 bottle of wine each 3 pax - (Each bottle of wine equals 2 liters of beer or 5 soft drinks)
+
+    Rates per person: 42,50€ VAT inc
+
+
+### Menu 2
+
+    To Share
+    Cheese and Cold Cuts
+    Mediterrannean Salad
+    Padron Peppers
+
+    Steamed Mussels
+    o
+    Sauteed Prawns
+
+    Salmon Poke
+    Lamb Cous Cous
+    Perica Iberica Pizza
+    
+    Dessert
+    Dessert Tasting
+    
+
+    Wines
+    Bodeguero (Tempranillo ) y Bodeguero (Verdejo)
+    Coffee or tea
+
+    *1 bottle of wine each 3 pax - (Each bottle of wine equals 2 liters of beer or 5 soft drinks)
+
+    Rates per person: 47,50€ VAT inc
+
+### Menu 3
+
+    To Share
+    Cheese and Cold Cuts
+    Fresh Burrata
+    Mexican Quesadillas
+    Grilled Vegetables
+
+    Red Tuna Tartar
+    Green Curry
+    Rib-Eye Steak 450 Grs.
+    
+    Dessert
+    Dessert Tasting
+    
+
+    Wines
+    Cair Cuvée (Ribera de Duero) y  Ophalum (Rías Baixas)
+    Coffee or tea
+
+    *1 bottle of wine each 3 pax - (Each bottle of wine equals 2 liters of beer or 5 soft drinks)
+
+    Rates per person: 54€ VAT inc
+
+
+*****
+
+# October 12th - EL IMPARCIAL
+
+<iframe src="Imparcial/Imparcial.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+## Menu options {.tabset .tabset-fade}
+
+*They can choose the main course in the restaurant
+
+### Menu 1
+
+        STARTERS TO SHARE:
+        PATATAS BRAVAS
+        HUMMUS WITH CRUDITES
+        FRESH BURRATA WITH TOMATO AND BASIL
+        TUNA TARTAR WITH AVOCADOAND SESAME GRISSINI
+        CHICKEN FINGERS WITH BOURBON SAUCE AND KIMUCHEE MAYO
+
+        MAIN DISHES TO CHOOSE:
+        IBERIAN CARRILLERAS WITH BONIATO PUREE
+        HAKE WITH ROOTS AND WHITE WINE SAUCE
+        MUSHROOM RISOTTO WITH TRFFLE
+
+        DESSERTS TO SHARE:
+        BROCKEN CAKE
+        CRÈME BRULEE
+
+        ONE BOTTLE OF WINE FOR EVERY 3 PEOPLE
+        ONE SOFT-DRINK FOR PEOPLE NOT DRINCKING WINE
+
+        COFFE/TEA/INFUSION
+
+        Rates per person: 48€ VAT inc
+
+### Menu 2
+
+        STARTERS TO SHARE:
+
+        OXTAIL OR IBERIAN JAM CROQUETTES
+        FRESH BURRATA WITH TOMATO AND BASIL
+        GRILLED SQUID WITH CAULIFLOWER & CURRY PUREE
+        NORWEGIAN SALMON SASHIMI WITH WAKAME AND WASABI ICE
+        “HUEVOS ROTOS” WITH SWEET POTATO, TRUFFLE AND PARMESAN CHEESE
+
+        MAIN DISHES TO CHOOSE:
+        IBERIAN CARRILLERAS WITH BONIATO PUREE
+        HAKE WITH ROOTS AND WHITE WINE SAUCE
+        BLACK SQUID INK RICE WITH SEAFOOD, SERVED WITH GINGER
+
+        DESSERTS TO SHARE:
+        BROCKEN CAKE
+        CRÈME BRULEE
+
+        ONE BOTTLE OF WINE FOR EVERY 3 PEOPLE
+        ONE SOFT-DRINK FOR PEOPLE NOT DRINCKING WINE
+
+        COFFE/TEA/INFUSION
+
+        Rates per person: 56,50€ VAT inc
+
+
+
+*****
+
+
+# October 13th - CASA GALLEGA
 
 Casa gallega is already booked for October 13th at 20.30h
 
 <iframe src="CasaGallega/CasaGallega.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
 
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
 
-<p class="comment">
-Rates:
-Three courses menu including drinks and coffees, from: 62,50€ VAT inc</p>
+    * CHOSEN MENU 1 - They can choose main course on spot
+
+    Squid with crispy vegetables
+    Homemade pasty
+    Mussels with marinara sauce
+    -------------------------------------
+    To choose one dish:
+    Hake in the oven with potatoes 
+    Grilled sole with wok vegetables
+    Grilled galician veal chop with potatoes
+    Grilled sirloin potatoes
+    ------------------------------
+    Homemade dessert
+    Coffe
+    -------------------------------
+    Wines: Albariño y Rioja crz.
+    Mineral water
+
+    Rates per person: 62,50€ VAT inc
+
 
 ****
 
-### ATICO
-
-Available 9th, 10th, 11th and 12th
-
-<iframe src="Atico/Atico.html" frameborder="0" width="100%" height="1200" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-Three courses menu including drinks and coffees, from: 69€ VAT inc</p>
-
-*****
-
-### HABANERA
-
-Available 9th, 10th and 11th
-
-<iframe src="Habanera/Habanera.html" frameborder="0" width="100%" height="950" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-All to share menu including drinks and coffees, from: 62€ VAT inc</p>
-
-*****
-
-### LA MUCCA DE PRADO
-
-Available 9th, 10th and 11th
-
-<iframe src="LaMuccadePrado/LaMuccadePrado.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-All to share menu including drinks and coffees, from: 42,50€ VAT inc</p>
-
-*****
-
-### EL IMPARCIAL
-
-Available 9th, 10th, 11th and 12th
-
-<iframe src="Imparcial/Imparcial.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-Three courses including drinks and coffees, from: 48€ VAT inc</p>
-
-*****
-
-### CASA ALBERTO
-
-Available 9th and 10th.
-
-<iframe src="CasaAlberto/CasaAlberto.html" frameborder="0" width="100%" height="1500" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-Three courses menu including drinks and coffees, from: 48€ VAT inc</p>
-
-*****
 
 
-### O'PULPO
-
-Available the 10th.
-
-<iframe src="Opulpo/opulpo.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-Three courses menu including drinks and coffees, from: 50€ VAT inc</p>
-
-*****
-
-### ANA LA SANTA
-
-Available 9th and 11th.
-
-<iframe src="AnaLaSanta/AnaLaSanta.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-Three courses menu including drinks and coffees, from: 68€ VAT inc</p>
-
-*****
-
-### FRIDA
-
-Available 9th and 10th.
-
-<iframe src="Frida/Frida.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-<style>
-p.comment {
-background-color: #ffcc99;
-padding: 10px;
-border: 1px solid black;
-border-radius: 5px;
-}
-</style>
-
-<p class="comment">
-Rates:
-All to share menu including drinks and coffees, from: 50€ VAT inc</p>
-
-*****
-
-## **TRANSFERS RATES**
+# **TRANSFERS RATES**
 
     * 35 seater bus from the airport to the hotel 175€ VAT inc
     * English speaking assistant (transfer airport/hotel): 155€ VAT inc
+    * Mini Van transfer from /to the Airport: 90€ VAT inc
 
 
 *****
 
-## **CHOOSEN HOTEL**
+# **CHOOSEN HOTEL**
 
 **Iberostar Las Letras Gran Via**
 
@@ -258,7 +365,7 @@ Located on Gran Vía Avenue, the **Iberostar Las Letras Gran Via** is a 10-minut
 
 
 
-## Terms & Conditions
+# Terms & Conditions
 
   * Rates valid for 2019.
   
